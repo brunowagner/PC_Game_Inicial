@@ -22,6 +22,10 @@ Teclado
 
 Mouse 
 
+## Gabinete Simples de bom tamanho
+
+Gabinete Gamer Dragon Prata / Laranja / Verde Usb 3.0 Mymax 
+https://produto.mercadolivre.com.br/MLB-1241240528-gabinete-gamer-dragon-prata-laranja-verde-usb-30-mymax-_JM?matt_tool=90090532&matt_word&gclid=EAIaIQobChMIp_2hp4rN6gIVCAeRCh0v4gzYEAkYAiABEgIpW_D_BwE&quantity=1&variation=38008421843
 
 ## Links de pesquisa
 
@@ -33,3 +37,5 @@ https://www.clubedohardware.com.br/topic/1456711-lote-defeituoso-t%C3%B3pico-inv
 
 Calcular fonte deacordo com os componentes do PC
 https://outervision.com/power-supply-calculator
+
+
