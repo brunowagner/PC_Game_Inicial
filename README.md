@@ -21,3 +21,15 @@ Monitor	V19b (2XM32AA)  Monitor LED HP de 18.5 polegadas; Frequência: 60Hz; Tam
 Teclado 
 
 Mouse 
+
+
+## Links de pesquisa
+
+Tutorial: como descobrir se sua fonte de alimentação é bomba?
+https://www.clubedohardware.com.br/topic/1164033-tutorial-como-descobrir-se-sua-fonte-de-alimenta%C3%A7%C3%A3o-%C3%A9-bomba/
+
+Lote defeituoso? Tópico investigativo: fontes Corsair CX estourando
+https://www.clubedohardware.com.br/topic/1456711-lote-defeituoso-t%C3%B3pico-investigativo-fontes-corsair-cx-estourando/
+
+Calcular fonte deacordo com os componentes do PC
+https://outervision.com/power-supply-calculator
